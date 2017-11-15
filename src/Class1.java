@@ -4,6 +4,7 @@ public class Class1 {
 	{
 		
 		int num1 = 20;
+		int num2 = 40;
 		
 	}
 }
